@@ -1,0 +1,13 @@
+{
+  "description": "Selfhosted Web Service",
+  "repo": "https://github.com/is-a-dev/docs",
+  "owner": {
+    "username": "froclock",
+    "email": "froclock@gmail.com"
+  },
+  "record": {
+    "A": [
+      "100.115.52.72",
+    ]
+  }
+}
